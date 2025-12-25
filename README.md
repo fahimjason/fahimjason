@@ -65,7 +65,7 @@ I'm a passionate software engineer specializing in backend development and DevOp
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=fahimjason&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
+    src="https://streak-stats.demolab.com/?user=fahimjason&theme=tokyonight&hide_border=true&border_radius=10" 
     alt="GitHub Streak Stats" 
   />
 </p>
